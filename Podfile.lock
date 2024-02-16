@@ -1,0 +1,22 @@
+PODS:
+  - iProgressHUD (1.1.1)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+
+DEPENDENCIES:
+  - iProgressHUD (~> 1.1.1)
+  - NVActivityIndicatorView
+
+SPEC REPOS:
+  trunk:
+    - iProgressHUD
+    - NVActivityIndicatorView
+
+SPEC CHECKSUMS:
+  iProgressHUD: caa742128253c97f2c2e1ec59e2bbe6cf689df6a
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+
+PODFILE CHECKSUM: eaa0534fd2bad44ba67ebe782108fe1b20f4392d
+
+COCOAPODS: 1.11.3
